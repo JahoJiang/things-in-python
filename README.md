@@ -2,14 +2,14 @@
 Python程序员需要了解的那些事。Things what you need to know as a Python programmer.
 
 * [Python]
-    * [入门｜Basis](python/basis.ipynb)
-    * [进阶｜Advanced](python/advanced.ipynb)
-    * [高阶｜High-level](python/high-level.ipynb)
+    * [入门](python/basis.ipynb)
+    * [进阶](python/advanced.ipynb)
+    * [高阶](python/high-level.ipynb)
 
 * [算法 Algorithms]
-    * [排序 Sort](algorithms/sort.ipynb)
+    * [排序](algorithms/sort.ipynb)
 
 * [面试 Interview]
-   * [数据库 MySQL Database](interview/database.ipynb)
-   * [操作系统 OS](interview/os.ipynb)
-   * [计算机网络 Computer Networking](interview/networking.ipynb)
+   * [数据库](interview/database.ipynb)
+   * [操作系统](interview/os.ipynb)
+   * [计算机网络](interview/networking.ipynb)
