@@ -1,5 +1,5 @@
 # <img align="left" src="assets/logo.svg" width="40px;"> &nbsp; Python那些事 ｜ Things in Python
-Python程序员需要了解的那些事。Things what you need to know as a Python programmer.
+Python程序员需要了解的那些事。
 
 * [Python]
     * [入门](python/basis.ipynb)
