@@ -1,0 +1,16 @@
+{
+     "plugins": [
+         "-highlight",
+         "prism",
+         "expandable-chapters",
+         "back-to-top-button",
+         "code"
+     ],
+
+     "pluginsConfig": {
+         "insert-logo": {
+             "url": "assets/logo.svg",
+             "style": "background: none; max-height: 30px; min-height: 30px"
+         }
+    }
+}
